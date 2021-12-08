@@ -1,0 +1,36 @@
+* {
+  /* color: aliceblue; */
+  text-align: center;
+  margin: 0;
+}
+body {
+  background-color: #124c81;
+}
+h1 {
+  margin: 5%;
+  color: thistle;
+}
+
+.form {
+  margin: 5% 10%;
+  padding: 5%;
+  background-color: #4e6190;
+}
+
+.form input,
+button {
+  /* display: flex; */
+  background-color: wheat;
+  align-content: center;
+  align-items: center;
+}
+.todoList {
+  padding: 30px;
+  background-color: thistle;
+  margin: 5% 20%;
+  border: 2px solid rgba(54, 54, 54, 0.959);
+  height: auto;
+}
+.todoList p {
+  border-bottom: 1px solid gray;
+}
